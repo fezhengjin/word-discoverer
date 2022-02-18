@@ -281,7 +281,7 @@ function text_to_hl_nodes(text, dst) {
 }
 
 
-var good_tags_list = ["P", "H1", "H2", "H3", "H4", "H5", "H6", "B", "SMALL", "STRONG", "Q", "DIV", "SPAN"];
+var good_tags_list = ["P", "H1", "H2", "H3", "H4", "H5", "H6", "B", "SMALL", "STRONG", "Q", "DIV", "SPAN", "A"];
 
 
 function mygoodfilter(node) {
